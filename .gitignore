@@ -1,0 +1,5 @@
+venv/
+.env
+pg_docker/
+__pycache__/
+*.py[cod]
